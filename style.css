@@ -1,0 +1,46 @@
+.jumbotron {
+    text-align: center;
+}
+
+.input-group {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+.cityBtn {
+    border-radius: 5px;
+    box-shadow: 2px 2px;
+    margin:2px;
+    padding: 10px ;
+    background-color: rgb(1, 167, 139);
+}
+.cityBtn:hover {
+    background-color: rgb(189, 8, 8);
+    color: white;
+  }
+
+body{
+    background-color: gray;
+}
+
+.low {
+    background-color: rgb(150, 240, 15);
+    padding: 3px;
+    border-radius: 6px;
+}
+
+.moderate {
+    background-color: yellow;
+    padding: 3px;
+    border-radius: 6px;
+}
+
+.high {
+    background-color: red;
+    padding: 3px;
+    border-radius: 6px;
+}
+
+#jumbo{
+    padding:1rem !important;
+}
